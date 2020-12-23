@@ -36,7 +36,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
+        "excerpt":"First Sample Post as Jekyll Cheat Sheet. #Jekyll Markdown Quick Reference ####Write in simply awesome markdown layout: post title: Markdown Style Guide --- This is a demo of all styled elements in Jekyll Now. [View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md). This is a paragraph, it's surrounded by whitespace....","categories": ["jekyll","update"],
         "tags": [],
         "url": "https://vikaslalwani.me/jekyll/update/welcome-to-jekyll/",
         "teaser": null
