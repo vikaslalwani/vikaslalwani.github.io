@@ -38,6 +38,12 @@ var store = [{
         "title": "Welcome to Jekyll!",
         "excerpt":"First Sample Post as Jekyll Cheat Sheet. #Jekyll Markdown Quick Reference ####Write in simply awesome markdown layout: post title: Markdown Style Guide --- This is a demo of all styled elements in Jekyll Now. [View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md). This is a paragraph, it's surrounded by whitespace....","categories": ["jekyll","update"],
         "tags": [],
-        "url": "https://vikaslalwani.me/jekyll/update/welcome-to-jekyll/",
+        "url": "https://vikaslalwani.me/jekyll/update/welcome-to-my-first-blog/",
+        "teaser": null
+      },{
+        "title": "Apache Kafka",
+        "excerpt":"   Placeholder for Apache Kafka documentation index.       Only one thing is impossible for God: To find any sense in any copyright law on the planet.       Mark Twain   ","categories": ["Blog","Apache Kafka"],
+        "tags": ["tutorial","apache kafka","kafka","kafka tutorial"],
+        "url": "https://vikaslalwani.me/blog/apache%20kafka/apache-kafka/",
         "teaser": null
       }]

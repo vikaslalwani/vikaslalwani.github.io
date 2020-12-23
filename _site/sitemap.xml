@@ -25,8 +25,12 @@
 <lastmod>2020-03-07T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>https://vikaslalwani.me/jekyll/update/welcome-to-jekyll/</loc>
+<loc>https://vikaslalwani.me/jekyll/update/welcome-to-my-first-blog/</loc>
 <lastmod>2020-12-22T20:29:51+05:30</lastmod>
+</url>
+<url>
+<loc>https://vikaslalwani.me/blog/apache%20kafka/apache-kafka/</loc>
+<lastmod>2020-12-23T00:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>https://vikaslalwani.me/_posts/2010-01-07-post-modified/</loc>
@@ -48,7 +52,10 @@
 <loc>https://vikaslalwani.me/_posts/2020-03-07-post-link/</loc>
 </url>
 <url>
-<loc>https://vikaslalwani.me/_posts/2020-12-22-welcome-to-jekyll/</loc>
+<loc>https://vikaslalwani.me/_posts/2020-12-22-welcome-to-my-first-blog/</loc>
+</url>
+<url>
+<loc>https://vikaslalwani.me/_posts/2020-12-23-apache-kafka/</loc>
 </url>
 <url>
 <loc>https://vikaslalwani.me/about/</loc>
