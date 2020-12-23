@@ -1,0 +1,2 @@
+This website uses jekyll with theme [minimal-mistakes-jekyll](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme)
+and this starter template as the reference: [mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter)

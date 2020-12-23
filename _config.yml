@@ -344,7 +344,7 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "main"
+        nav: "leftnav"
   # _pages
   - scope:
       path: "_pages"
@@ -352,5 +352,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar:
-        nav: "main"

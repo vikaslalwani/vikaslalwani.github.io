@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
+author_profile: true
 ---
 
 [About Me](https://about.me/vikas.lalwani)
