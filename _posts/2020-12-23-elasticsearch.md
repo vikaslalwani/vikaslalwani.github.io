@@ -1,10 +1,16 @@
 ---
-title: "Post: Quote"
+title: "Elasticsearch"
 categories:
   - Blog
+  - Elasticsearch
 tags:
-  - Post Formats
+  - index
+  - elasticsearch
+  - es
 ---
+> Under Construction
+
+> Placeholder for Elasticsearch index.
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.
   

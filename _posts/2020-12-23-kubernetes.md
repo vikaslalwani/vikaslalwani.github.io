@@ -1,10 +1,16 @@
 ---
-title: "Post: Quote"
+title: "Kubernetes"
 categories:
   - Blog
+  - Kubernetes
 tags:
-  - Post Formats
+  - index
+  - kubernetes
+  - k8s
 ---
+> Under Construction
+
+> Placeholder for AKubernetes index.
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.
   

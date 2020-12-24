@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2020-12-22 20:29:51 +0530
-categories: jekyll update
+categories: jekyll
 ---
 
 [First Sample Post as Jekyll Cheat Sheet.](https://gist.github.com/roachhd/779fa77e9b90fe945b0c)

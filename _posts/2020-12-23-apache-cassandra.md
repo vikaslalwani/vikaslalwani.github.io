@@ -1,10 +1,16 @@
 ---
-title: "Post: Quote"
+title: "Apache Cassandra"
 categories:
   - Blog
+  - Apache Cassandra
 tags:
-  - Post Formats
+  - index
+  - apache cassandra
+  - cassandra
 ---
+> Under Construction
+
+> Placeholder for Apache Cassandra index.
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.
   

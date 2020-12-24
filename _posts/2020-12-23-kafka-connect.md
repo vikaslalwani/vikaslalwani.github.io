@@ -1,10 +1,16 @@
 ---
-title: "Post: Quote"
+title: "Kafka Connect"
 categories:
   - Blog
+  - Kafka Connect
 tags:
-  - Post Formats
+  - index
+  - apache kafka
+  - kafka connect
 ---
+> Under Construction
+
+> Placeholder for Kafka Connect index.
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.
   
