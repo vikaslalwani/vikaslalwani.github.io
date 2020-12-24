@@ -10,24 +10,27 @@ main:
 leftnav:
   - title: Tech Consortium
     children:
+      - title: "Amazon Web Services - AWS"
+        url: /blog/aws/aws/
       - title: "Apache Kafka"
         url: /blog/apache%20kafka/apache-kafka/
-      - title: "Structure"
-        url: /posts/apache-cassandra/
-      - title: "Installation"
-        url: /posts/installation/
-      - title: "Upgrading"
-        url: /posts/upgrading/
-
-  - title: My Poetry
+      - title: "Kafka Connect"
+        url: /blog/kafka%20connect/kafka-connect/
+      - title: "Kafka Streams"
+        url: /blog/kafka%20streams/kafka-streams/
+      - title: "Schema Registry"
+        url: /blog/schema%20registry/schema-registry/
+      - title: "Apache Cassandra"
+        url: /blog/apache%20cassandra/apache-cassandra/
+      - title: "Elasticsearch"
+        url: /blog/elasticsearch/elasticsearch/
+      - title: "Kubernetes"
+        url: /blog/k8s/k8s/
+  - title: My Writings
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "Articles"
+        url: /blog/articles/
+      - title: "Quotes"
+        url: /blog/quotes/
+      - title: "Poetry"
+        url: /blog/poetry/

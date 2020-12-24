@@ -4,11 +4,11 @@ categories:
   - Blog
   - Apache Kafka
 tags:
-  - tutorial
+  - index
   - apache kafka
   - kafka
-  - kafka tutorial
 ---
+> Under Construction
 
 > Placeholder for Apache Kafka documentation index.
 

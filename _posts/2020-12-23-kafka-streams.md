@@ -1,10 +1,16 @@
 ---
-title: "Post: Quote"
+title: "Kafka Streams"
 categories:
   - Blog
+  - Kafka Streams
 tags:
-  - Post Formats
+  - index
+  - apache kafka
+  - kafka streams
 ---
+> Under Construction
+
+> Placeholder for Kafka Streams index.
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.
   
