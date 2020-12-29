@@ -99,9 +99,9 @@ author:
   location         : "India"
   email            : "vikaslalwani16@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:vikaslalwani16@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:vikaslalwani16@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://vikaslalwani.me"
@@ -114,9 +114,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vikaslalwani"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/vikaslalwani"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"
+    - label: "YourQuote"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.yourquote.in/vikaslalwani"
 
 # Site Footer
 footer:

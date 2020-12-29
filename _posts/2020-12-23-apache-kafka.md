@@ -8,10 +8,11 @@ tags:
   - apache kafka
   - kafka
 ---
-> Under Construction
 
-> Placeholder for Apache Kafka documentation index.
+## Index to Apache Kafka posts
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
-  
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+### Getting Started with Apache Kafka
+* [Getting Started with Apache Kafka - The Theory]({% post_url 2020-12-28-getting-started-with-apache-kafka %})
+* [Getting Started with Apache Kafka using Java]({% post_url 2020-12-28-getting-started-kafka-java-client %})
+* [Getting Started with Apache Kafka using Python]({% post_url 2020-12-28-getting-started-kafka-python-client %})
+* [Getting Started with Apache Kafka using Golang]({% post_url 2020-12-28-getting-started-kafka-golang-client %})

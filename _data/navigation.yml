@@ -8,6 +8,12 @@ main:
   - title: "About"
     url: /about/
 leftnav:
+  - title: My Writings
+    children:
+      - title: "Articles and Musings"
+        url: /categories/#articles-and-musings
+      - title: "Quotes and Poetry"
+        url: /categories/#quotes-and-poetry
   - title: Tech Consortium
     children:
       - title: "Amazon Web Services - AWS"
@@ -18,19 +24,11 @@ leftnav:
         url: /blog/kafka%20connect/kafka-connect/
       - title: "Kafka Streams"
         url: /blog/kafka%20streams/kafka-streams/
-      - title: "Schema Registry"
-        url: /blog/schema%20registry/schema-registry/
+      # - title: "Schema Registry"
+      #   url: /blog/schema%20registry/schema-registry/
       - title: "Apache Cassandra"
         url: /blog/apache%20cassandra/apache-cassandra/
       - title: "Elasticsearch"
         url: /blog/elasticsearch/elasticsearch/
-      - title: "Kubernetes"
-        url: /blog/k8s/k8s/
-  - title: My Writings
-    children:
-      - title: "Articles"
-        url: /blog/articles/
-      - title: "Quotes"
-        url: /blog/quotes/
-      - title: "Poetry"
-        url: /blog/poetry/
+      # - title: "Kubernetes"
+      #   url: /blog/k8s/k8s/
