@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.21.0"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "default", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "default", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -102,9 +102,9 @@ author:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   url: "mailto:vikaslalwani16@gmail.com"
-    - label: "Website"
+    - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://vikaslalwani.me"
+      url: "https://vikaslalwani.me/about/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/that_guy_vikas"
@@ -145,6 +145,12 @@ footer:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/vikaslalwani"
+    - label: "YourQuote"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.yourquote.in/vikaslalwani"
 
 
 # Reading Files
