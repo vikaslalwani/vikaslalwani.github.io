@@ -126,8 +126,8 @@ SHOP@IBM.COM powered by WCS to automate the store creation for sale of IBM's ser
 | Institution | Qualification | Score |
 | ----------- | ----------- | ----------- |
 | Swami Keshvanand Institute of Technology affiliated to Rajasthan Technical University | B.Tech (hons.) - Information Technology | 70.5% |
-| Seedling Public School | Senior Secondary (CBSE) | 77.6% |
-| Seedling Public School | Higher Secondary (CBSE) | 82.4% |
+| Seedling Public School | Higher Secondary (CBSE) - XII| 77.6% |
+| Seedling Public School | Senior Secondary (CBSE) - X | 82.4% |
 
 
 ## Languages
