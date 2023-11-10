@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes@4.21.0"
+# theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "default", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : "...and some poetry"
 name                     : "Vikas Lalwani"
 description              : "Get things running. Keep them running."
-url                      : "https://vikaslalwani.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://vikaslalwani.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Vikas Lalwani"
   avatar           : "/assets/images/bio-pic.jpg"
-  bio              : "Software Engineer and occasionally a writer"
+  bio              : "An Engineer and occasionally a writer"
   location         : "India"
   email            : "vikaslalwani16@gmail.com"
   links:
@@ -104,7 +104,7 @@ author:
     #   url: "mailto:vikaslalwani16@gmail.com"
     - label: "Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://vikaslalwani.me/about/"
+      url: "https://vikaslalwani.github.io/about/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/that_guy_vikas"
@@ -120,9 +120,9 @@ author:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"
-    - label: "YourQuote"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.yourquote.in/vikaslalwani"
+    # - label: "YourQuote"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://www.yourquote.in/vikaslalwani"
 
 # Site Footer
 footer:
@@ -148,9 +148,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/vikaslalwani"
-    - label: "YourQuote"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.yourquote.in/vikaslalwani"
+    # - label: "YourQuote"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://www.yourquote.in/vikaslalwani"
 
 
 # Reading Files
@@ -288,7 +288,9 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: 
+        posts
+        pages
     values:
       layout: single
       author_profile: true
