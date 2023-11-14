@@ -4,9 +4,7 @@ title: "SME DevOps, MLOps and Platform"
 author_profile: true
 ---
 
-## [About Me](https://www.linkedin.com/in/vikaslalwani/)
-
-<a href="/assets/files/Vikas-Lalwani-SRE-Devops-Platform.pdf" class="btn btn--success">Download this profile as PDF</a>
+## [About Me](https://www.linkedin.com/in/vikaslalwani/) <span style="float: right; margin-left: 20px;"><a href="/assets/files/Vikas-Lalwani-SRE-Devops-Platform.pdf" download><img src="/assets/icons/download-pdf.png" alt="Download PDF" width="30" height="30"></a></span>
 
 - Engineer by profession, writer at heart. 
 - I have been building Data Streaming platforms with Apache Kafka, Internal developer platforms and stnadard SRE and DevOps (with Infrastructure as Code).  
