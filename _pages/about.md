@@ -4,6 +4,8 @@ title: "SME DevOps, MLOps and Platform"
 author_profile: true
 ---
 
+### I get things running, I keep them running
+
 ## [About Me](https://www.linkedin.com/in/vikaslalwani/) <span style="float: right; margin-left: 20px;"><a href="/assets/files/Vikas-Lalwani-SRE-Devops-Platform.pdf" download><img src="/assets/icons/download-pdf.png" alt="Download PDF" width="30" height="30"></a></span>
 
 - Engineer by profession, writer at heart. 
