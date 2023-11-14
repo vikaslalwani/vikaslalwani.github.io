@@ -6,6 +6,8 @@ author_profile: true
 
 ## [About Me](https://www.linkedin.com/in/vikaslalwani/)
 
+<a href="/assets/files/Vikas-Lalwani-SRE-Devops-Platform.pdf" class="btn btn--success">Download this profile as PDF</a>
+
 - Engineer by profession, writer at heart. 
 - I have been building Data Streaming platforms with Apache Kafka, Internal developer platforms and stnadard SRE and DevOps (with Infrastructure as Code).  
 - And in doing that I ended up working with Elasticsearch, Cassandra, Kubernetes and a lot more with data pipelines.  
