@@ -33,7 +33,7 @@ author_profile: true
 
 | Org | Title (Role) | Duration |
 | ----------- | ----------- | ----------- |
-| Teikametrics | Senior ENgineering Manager (Technology Leader and Mentor) | Jan 2022 - Present |
+| Teikametrics | Senior Engineering Manager (Technology Leader and Mentor) | Jan 2022 - Present |
 | Expedia Group | Software Development Engineer (Technology DevOps Lead) | July 2013 - Jan 2022 |
 | IBM | Systems Engineer (Application Developer) | Feb 2012 - July 2013 |
 
