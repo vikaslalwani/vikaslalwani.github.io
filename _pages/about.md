@@ -1,21 +1,23 @@
 ---
 permalink: /about/
-title: "SME DevOps, MLOps and Platform"
+title: "SME DevOps, SRE, AIOps and Platform"
 author_profile: true
 ---
 
 ### I get things running, I keep them running
 
-## [About Me](https://www.linkedin.com/in/vikaslalwani/) <span style="float: right; margin-left: 20px;"><a href="/assets/files/Vikas-Lalwani-SRE-Devops-Platform.pdf" download><img src="/assets/icons/download-pdf.png" alt="Download PDF" width="30" height="30"></a></span>
+## [About Me](https://www.linkedin.com/in/vikaslalwani/) <span style="float: right; margin-left: 20px;"><a href="/assets\files\VikasLalwani_SrEM_redacted.pdf" download><img src="/assets/icons/download-pdf.png" alt="Download PDF" width="30" height="30"></a></span>
 
 - Engineer by profession, writer at heart. 
 - I have been building Data Streaming platforms with Apache Kafka, Internal developer platforms and stnadard SRE and DevOps (with Infrastructure as Code).  
 - And in doing that I ended up working with Elasticsearch, Cassandra, Kubernetes and a lot more with data pipelines.  
-- Part time (Technical) Product Management and full time engineering led to a role I never imagined I'd play in my career all while trying to expanding developer adoption to home baked systems
-- Currently working on in-house MLOps setups and Kubernetes native dev platforms.
+- Full time engineering lead and management to a role I never imagined I'd play in my career all while trying to expanding developer adoption to home baked systems
+- Currently working on in-house ecosystem and Kubernetes native dev platforms.
 
 ## Summary
 
+- Building a bridge between various operational entities like ProdOps, Accounts, Product to Dev team
+- Multi cloud and multi vendor management
 - Designing REST and Event Driven solutions on kubernetes
 - In-org customer interactions and product ownership
 - Designing automations using serverless and Chatops patterns
@@ -25,26 +27,30 @@ author_profile: true
 
 ## Professional Skills
 
-`Apache Kafka` `AWS` `Microservices` `Event Driven Architecture` `Elasticsearch` `Cassandra` `Kafka Connect` `Chef` `Packer` `Terraform` `Kubernetes` `Haystack` `OpenTracing` `Java` `Python` `Golang` `ArgoCD` `Argo Workflows` `CircleCI` `Sonarcloud` `SLI, SLO, SLA` `Scorecard` `MLOps` `Databricks` 
+`Apache Kafka` `AWS` `Oracle Cloud Infrastructure` `Microservices` `Event Driven Architecture` `Elasticsearch` `Cassandra` `Kafka Connect` `Chef` `Packer` `Terraform` `Kubernetes` `Haystack` `OpenTracing` `Java` `Python` `Golang` `ArgoCD` `Argo Workflows` `CircleCI` `Sonarcloud` `SLI, SLO, SLA` `Scorecards` `MLOps` `Databricks` 
 
 ## Organisations I Have Worked With
 
 | Org | Title (Role) | Duration |
 | ----------- | ----------- | ----------- |
-| Teikametrics | Staff Site Reliability Engineer (Technology Leader and Mentor) | Jan 2022 - Present |
+| Teikametrics | Senior ENgineering Manager (Technology Leader and Mentor) | Jan 2022 - Present |
 | Expedia Group | Software Development Engineer (Technology DevOps Lead) | July 2013 - Jan 2022 |
 | IBM | Systems Engineer (Application Developer) | Feb 2012 - July 2013 |
 
 ## Projects
 
-### Devops -Teikametrics
+### Devops - Teikametrics
 
 Core Devops/Platform team for Teikametrics, overhauling and standardizing the devops methodologies as the Series B startup grows at a rapid pace
 
-`Aiven` `Kafka` `Postgres` `Terraform` `CircleCI` `Arog Workflows` `ArgoCD` `Kubernetes` `Python` `AWS` `MLOps` `Hybrid Cloud` `Datadog` `Opensearch` `Elasticache`
+`Aiven` `Kafka` `Postgres` `Terraform` `CircleCI` `Arog Workflows` `ArgoCD` `Kubernetes` `Python` `AWS` `OCI` `MLOps` `AIOps` `Hybrid and Multi Cloud` `Datadog` `Opensearch` `Elasticache`
 
 - Working closely with the tech leadership for adoption of industry standard Devops and SRE practices
 - Application and system design with Dev teams
+- Building a bridge between various operational entities like ProdOps, Accounts, Product to Dev team
+- Multi cloud and multi vendor management
+- Budget and Cost management for Cloud infrastructure
+- Ensuring ecosystem compliance for pre-IPO/acquisition preparation using Vanta and other tools
 - Automated application bootstrap services
 - Scorecard services for fully automated ops compliance
 - Custom kubernetes deployment platform wrapped over opensource tools like Argo and Helm
